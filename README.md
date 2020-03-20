@@ -43,7 +43,7 @@ A relational database stores things. SQL is structured query language and is use
 
 - [ ] Why do tables need a `primary key`?
 Primary keys are used to identify unique identifiers in your database.
-
+Matthew Cebenka
 - [ ] What is the name given to a table column that references the primary key on another table.
 Foreign key.
 
